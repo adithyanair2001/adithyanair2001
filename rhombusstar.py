@@ -1,10 +1,10 @@
 n=int(input())
 
-for i in range(0,n):
-    for l in range(0,i):
+for i in range(n):
+    for _ in range(i):
         print(" ",end="")
-    
-    for j in range(0,n):
+
+    for _ in range(n):
         print("*",end="")
 
     print()
