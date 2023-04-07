@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @adithyanair2001
+- 👋 Hi, I’m Adithya Nair, age 22, undergrad in B.Tech Computer Science
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Web projects
+- 💞️ I'm currently working as a Software Developer Intern @ IBM.
+- Skills - Front End WebDevelopment, ReactJS,Angular, IBM Cloud Plaform Advocate, Kubernetes Service, Docker, CI/CD Tekton, Python - APIs,Flask.
 - 📫 How to reach me - Ping me on Social Media
 
 <!---
