@@ -3,20 +3,21 @@
 🌟 **A 24-year-old B.Tech Computer Science graduate with a passion for front-end development and web technologies.**
 
 ## 🎨 What I Love Doing
-- Crafting dynamic and responsive user interfaces.
-- Experimenting with the latest web development trends.
+- Exploring the world of Python and Golang. Learn more about the underlying architecture of big infras
+- Experimenting with latest trends like AI, new tools and practices.
 
 ## 📚 Currently on My Learning Path
-- Diving deeper into the intricacies of web development.
+- Explore Kubernetes and its application in cloud.
 
 ## 💼 Professional Background
-- Cloud Test Developer at IBM, where I work with cutting-edge cloud technologies.
+- Cloud Automation Engineer at IBM, where I work with cutting-edge cloud technologies.
 
 ## 🔧 Skills & Expertise
 - **Front-End:** ReactJS, Angular
 - **Cloud:** IBM Cloud Platform Advocate, Kubernetes Service
 - **DevOps:** Docker, CI/CD Tekton
 - **Backend:** Python - APIs, Flask
+- **Backend:** Golang - Kubernetes, IPMITool 
 
 ## 📬 Let's Connect
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adithya-nair-685888189/) for collaborations, queries, or just to say hi!
